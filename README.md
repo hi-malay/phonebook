@@ -5,7 +5,7 @@
  3. Run localhost/project-name
 
 # Note
-This project will automatically make Datebase from createtable.php
+This project will automatically make Dateabase and table from createtable.php
 
 # Technology Used
 1. HTML
