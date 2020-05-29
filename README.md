@@ -4,8 +4,8 @@
  2. Copy the downloaded proect in htdocs
  3. Run localhost/project-name
 
-# Note
-This project will automatically make Dateabase and table from createtable.php
+# Noteth
+This project will automatically make Database and table from createtable.php through object oriented method
 
 # Technology Used
 1. HTML
