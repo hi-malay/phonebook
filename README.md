@@ -1,7 +1,7 @@
 # Rentomojo PhoneBook Assignment
  # Steps after starting xampp server
  1. Go to C>XAMPP>htdocs
- 2. Copy the downloaded proect their
+ 2. Copy the downloaded proect in htdocs
  3. Run localhost/project-name
 
 # Note
