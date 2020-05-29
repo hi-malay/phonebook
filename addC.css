@@ -1,0 +1,69 @@
+
+#ab{
+    font-size: 20px;
+    color:black;
+}
+#header{
+    background-color: lightgrey;
+    height:100%;
+    width:100%;
+}
+#form{
+    height:100%;
+    width:350px;
+    border:1px solid black;
+    margin-left: 400px;
+    padding:8px;
+    background-color: white;
+}
+.rfeild,.rmemail {
+    margin-left: 10px;
+    font-size: 28px;
+}
+.a1{
+    height:30px;
+    width:340px;
+    border:1px solid black;
+}
+.a2,.aemail{
+    height:30px;
+    width:300px;
+    border:1px solid black;
+}
+input::-webkit-input-placeholder {
+    font-size: 25px;
+    line-height: 4;
+    color:lightgrey;
+}
+.a3{
+    background-color: green;
+    border-radius: 6px;
+    float:right;
+    height:40px;
+    width:80px;
+    border:1px solid black;
+    color:white;
+}
+.a3:hover {
+    cursor: pointer;
+}
+#ar1,#email{
+    margin-left: 10px;
+    font-size: 20px;
+}
+#h{
+    background-color: lightcyan;
+    font-size:20px;
+    height:40px;
+    padding-top: 5px;
+    padding-left: 10px;
+  
+}
+
+i:hover {
+    cursor: pointer;
+}
+.text_color {
+    color:red;
+    font-size: 17px;
+  }
